@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFoodApp</string>
+
+    <string-array name="options">
+        <item>Eat</item>
+        <item>Drink</item>
+        <item>Others</item>
+
+
+    </string-array>
+</resources>
